@@ -2,6 +2,8 @@
 
 # Android
 
+https://github.com/orestesgaolin/flutter_location_updates/assets/16854239/092f2d2b-8e55-4e8a-90dc-5d4ab068f00f
+
 ## Permissions
 
 Follow the steps related to foreground location [here](https://developer.android.com/develop/sensors-and-location/location/permissions):
